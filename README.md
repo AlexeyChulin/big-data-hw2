@@ -11,3 +11,9 @@
 - Используя Python, реализуйте скрипт mapper.py и reducer.py для расчета
 
 - Проверьте правильность подсчета статистики методом mapreduce в сравнении со hive.
+
+## Решение:
+
+Подсчет статистики методом mapreduce - в файле homework2.ipynb
+
+Результаты расчетов в hive - hive-load-data.png, hive-aggregates.png
